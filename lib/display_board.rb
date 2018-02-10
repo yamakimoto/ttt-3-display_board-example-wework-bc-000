@@ -1,1 +1,2 @@
-"A Tic Tac Toe Board" = "___|____|___
+"A Tic Tac Toe Board" = "___"|"____"|"___"
+
