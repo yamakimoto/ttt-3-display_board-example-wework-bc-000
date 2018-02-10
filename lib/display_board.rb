@@ -1,4 +1,4 @@
-A Tic Tac Toe Board = "___"|"___"|"___"
+puts ---|   |   
 
 
 
