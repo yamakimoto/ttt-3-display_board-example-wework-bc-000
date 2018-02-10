@@ -1,1 +1,1 @@
-display board = ____|____|____
+display board = ___|____|___
